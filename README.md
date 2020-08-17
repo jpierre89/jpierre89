@@ -1,16 +1,85 @@
-### Hi there 👋
+### Hi there, I'm Jon
 
-<!--
-**jpierre89/jpierre89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on my website
+- I’m looking to collaborate with other developers
+- Ask me about my favorite languages
+- Fun fact: I just bought a road bicycle
 
-Here are some ideas to get you started:
+### Contact me:
+<!-- https://github.com/simple-icons/simple-icons -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[jfpierre.dev][website]
+
+[<img align="left" height="32" width="32" src=
+"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools
+<!-- github language search -->
+
+[<img align="left" alt="Python" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+
+[<img align="left" alt="Flask" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+
+[<img align="left" alt="Django" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
+
+[<img align="left" alt="JavaScript" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+
+[<img align="left" alt="Typescript" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png]" />][typescript]
+
+[<img align="left" alt="HTML5" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+
+[<img align="left" alt="CSS" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+
+[<img align="left" alt="Angular" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
+
+[<img align="left" alt="Docker" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+
+[<img align="left" alt="Java" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+
+[<img align="left" alt="C" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
+
+[<img align="left" alt="SQL" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+
+[<img align="left" alt="Git" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+
+[<img align="left" alt="Linux" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+
+
+
+<!-- links -->
+[website]: https://jfpierre.dev
+[linkedin]: https://www.linkedin.com/in/jpierre1
+
+[angular]: https://angular.io/
+[C]: https://cppreference.com/w/cpp
+[C++]: https://cppreference.com/w/c
+[java]: https://www.java.com
+[docker]: https://www.docker.com/
+[nginx]: https://www.nginx.com/
+[python]: https://www.python.org/
+[html]: https://www.w3schools.com/html/
+[css]: https://www.w3schools.com/css/
+[javascript]: https://www.javascript.com/
+[SQL]: https://www.w3schools.com/sql/
+[git]: https://git-scm.com/
+[linux]: https://www.linux.org/
+[typescript]: https://www.typescriptlang.org/
+[flask]: https://flask.palletsprojects.com
+[django]: https://www.djangoproject.com/
+
