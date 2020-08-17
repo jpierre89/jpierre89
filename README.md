@@ -13,9 +13,6 @@
 ### Languages and Tools
 <!-- github language search -->
 
-[<img align="left" alt="C" width="32px" src=
-"https://raw.githubusercontent.com/simple-icons/simple-icons/0181b18da750e20a23b1602414d25c72116e8b93/icons/cplusplus.svg" />][C++]
-
 [<img align="left" alt="Java" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 
@@ -61,6 +58,9 @@
 
 [<img align="left" alt="Git" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+
+[<img align="left" alt="C" width="32px" src=
+"https://raw.githubusercontent.com/simple-icons/simple-icons/0181b18da750e20a23b1602414d25c72116e8b93/icons/cplusplus.svg" />][C++]
 
 [<img align="left" alt="Linux" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
