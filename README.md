@@ -30,8 +30,8 @@
 [<img align="left" alt="JavaScript" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
-[<img align="left" alt="Typescript" width="32px" src=
-"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png]" />][typescript]
+[<img align="left" alt="" width="32px" src=
+"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 
 [<img align="left" alt="HTML5" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -51,8 +51,19 @@
 [<img align="left" alt="C" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
 
+[<img align="left" alt="C" width="32px" src=
+"https://raw.githubusercontent.com/simple-icons/simple-icons/0181b18da750e20a23b1602414d25c72116e8b93/icons/cplusplus.svg" />][C++]
+
 [<img align="left" alt="SQL" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+
+[<img align="left" alt="Celery" width="32px" src=
+"https://docs.celeryproject.org/en/stable/_static/celery_512.png" />][celery]
+
+[<img align="left" alt="Rabbitmq" width="32px" src=
+"https://www.rabbitmq.com/img/rabbitmq_logo_strap.png" />][rabbitmq]
+
+
 
 [<img align="left" alt="Git" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
@@ -60,7 +71,10 @@
 [<img align="left" alt="Linux" width="32px" src=
 "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 
+[<img align="left" alt="Nginx" width="32px" src=
+"https://nginx.org/nginx.png" />][nginx]
 
+<!--https://www.rabbitmq.com/img/logo-rabbitmq.svg-->
 
 <!-- links -->
 [website]: https://jfpierre.dev
@@ -82,4 +96,6 @@
 [typescript]: https://www.typescriptlang.org/
 [flask]: https://flask.palletsprojects.com
 [django]: https://www.djangoproject.com/
+[celery]: https://docs.celeryproject.org
+[rabbitmq]: https://www.rabbitmq.com/
 
