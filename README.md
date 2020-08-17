@@ -70,8 +70,8 @@
 [linkedin]: https://www.linkedin.com/in/jpierre1
 
 [angular]: https://angular.io/
-[C]: https://cppreference.com/w/cpp
-[C++]: https://cppreference.com/w/c
+[C]: https://cppreference.com/w/c
+[C++]: https://cppreference.com/w/cpp
 [java]: https://www.java.com
 [docker]: https://www.docker.com/
 [nginx]: https://www.nginx.com/
