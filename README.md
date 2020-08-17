@@ -5,13 +5,8 @@
 - Ask me about my favorite languages
 - Fun fact: I just bought a road bicycle
 
-### Contact me:
-<!-- https://github.com/simple-icons/simple-icons -->
-
-[jfpierre.dev][website]
-
-[<img align="left" height="32" width="32" src=
-"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Website: [jfpierre.dev][website]
+### Linkedin: [<img align="right" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
