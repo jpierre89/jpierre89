@@ -1,9 +1,5 @@
 ### Hi there, I'm Jon
 
-- I’m currently working on my website
-- I’m looking to collaborate with other developers
-- Fun fact: I just got a road bike
-
 ### Website: [https://jfpierre.dev][website]
 ### Linkedin: [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
